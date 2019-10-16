@@ -1,0 +1,9 @@
+C:\Users\gsingh\source\repos\WebApplication12\BattleShipStateTracker.Domain\obj\Debug\netstandard2.0\BattleShipStateTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gsingh\source\repos\WebApplication12\BattleShipStateTracker.Domain\obj\Debug\netstandard2.0\BattleShipStateTracker.Domain.AssemblyInfoInputs.cache
+C:\Users\gsingh\source\repos\WebApplication12\BattleShipStateTracker.Domain\obj\Debug\netstandard2.0\BattleShipStateTracker.Domain.AssemblyInfo.cs
+C:\Users\gsingh\source\repos\WebApplication12\BattleShipStateTracker.Domain\bin\Debug\netstandard2.0\BattleShipStateTracker.Domain.deps.json
+C:\Users\gsingh\source\repos\WebApplication12\BattleShipStateTracker.Domain\bin\Debug\netstandard2.0\BattleShipStateTracker.Domain.dll
+C:\Users\gsingh\source\repos\WebApplication12\BattleShipStateTracker.Domain\bin\Debug\netstandard2.0\BattleShipStateTracker.Domain.pdb
+C:\Users\gsingh\source\repos\WebApplication12\BattleShipStateTracker.Domain\obj\Debug\netstandard2.0\BattleShipStateTracker.Domain.dll
+C:\Users\gsingh\source\repos\WebApplication12\BattleShipStateTracker.Domain\obj\Debug\netstandard2.0\BattleShipStateTracker.Domain.pdb
+C:\Users\gsingh\source\repos\WebApplication12\BattleShipStateTracker.Domain\obj\Debug\netstandard2.0\BattleShipStateTracker.Domain.csprojAssemblyReference.cache
